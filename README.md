@@ -1,6 +1,6 @@
 <h1 align="center">ToDo App</h1>
 
-https://d-todo-app.herokuapp.com/
+http://benh.pythonanywhere.com/
 
 
 <!-- TABLE OF CONTENTS -->
@@ -31,8 +31,6 @@ https://d-todo-app.herokuapp.com/
 
 ## How To Use
 
-
-
 To clone and run this application, you'll need [Git](https://git-scm.com) 
 ```bash
 # Clone this repository
@@ -52,6 +50,7 @@ $ git clone https://github.com/huseyin-aln/Todo-App-D
 
 ## Acknowledgements
 - ToDo App was created with CRUD operations using django structure. The templates created were visualized using bootstrap and style.css.
+- This project includes auth processes unlike the other Todo-App on my page. The user cannot add any todo to the list without login. Also published this project in pythonanywhere environment.
 
 ## Contact
 
